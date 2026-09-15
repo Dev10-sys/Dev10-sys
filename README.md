@@ -6,7 +6,6 @@
 
 *Based in Bangalore, India 🌍*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev10--sys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev10-sys)
 [![GitHub](https://img.shields.io/badge/GitHub-Dev10--sys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev10-sys)
 [![Email](https://img.shields.io/badge/📧-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalpanagola9897@gmail.com)
 
@@ -25,7 +24,7 @@ Building **production-grade software** with clean architecture, scalability & re
 I'm a **systems engineer** passionate about building efficient, scalable solutions.
 
 - 🔧 **Systems Engineering** → Distributed systems, architecture design, performance optimization
-- 🌐 **Open Source** → Active contributor to SugarLabs, OWASP, CHAOSS, DBpedia  
+- 🌐 **Open Source** → Active contributor to SugarLabs, Web3j, CNCF, OpenSSF, OWASP, CHAOSS
 - 🤖 **AI/ML Infrastructure** → Data pipelines, intelligent systems, infrastructure design
 - 💻 **Full-Stack Development** → Production-ready applications from backend to frontend
 - 🔗 **Bitcoin & Blockchain** → Crypto tooling, secure transactions, blockchain systems
